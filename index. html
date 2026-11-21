@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TOURMALINE WHOLESALER</title>
+<style>
+body {
+  margin: 0;
+  background: #10120f;
+  color: white;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+header {
+  padding: 35px 10px;
+  color: #d8b66c;
+  letter-spacing: 4px;
+}
+h1 { font-size: 38px; }
+p { line-height: 1.8; }
+section { padding: 35px 15px; }
+.stones {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+.stone {
+  background: #242820;
+  padding: 25px 5px;
+  color: #d8b66c;
+  border: 1px solid #806638;
+}
+a {
+  display: inline-block;
+  background: #c7a66a;
+  color: black;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>TOURMALINE</h1>
+WHOLESALER
+</header>
+<section>
+<h1>PRECIOUS GEMSTONES</h1>
+<p>Exceptional Gemstones. Worldwide Wholesale.</p>
+<p>Pakistan • Afghanistan • Worldwide</p>
+</section>
+<section>
+<h2>OUR COLLECTION</h2>
+<div class="stones">
+<div class="stone">💚 EMERALDS</div>
+<div class="stone">💙 SAPPHIRES</div>
+<div class="stone">❤️ RUBIES</div>
+<div class="stone">💎 TOURMALINES</div>
+</div>
+</section>
+<section>
+<h2>WHOLESALE ENQUIRIES</h2>
+<p>Contact us for gemstone availability and prices.</p>
+<a href="https://wa.me/923433807482">CONTACT ON WHATSAPP</a>
+</section>
+</body>
+</html>
